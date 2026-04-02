@@ -1,0 +1,10 @@
+Data,Produto,Categoria,Valor_Venda,Custo_Produto,Vendedor,Regiao
+2024-03-02,Tenis Running Pro,Calcados,299.90,120.00,Ana Lima,Sul
+2024-03-05,Boné Koala,Acessorios,59.90,18.00,Carlos Souza,Sudeste
+2024-03-09,Luvas Musculacao,Acessorios,79.90,28.00,Marcos Alves,Centro-Oeste
+2024-03-12,Camiseta Dry Fit,Vestuario,89.90,30.00,Fernanda Costa,Norte
+2024-03-15,Tenis Casual Koala,Calcados,249.90,95.00,Ana Lima,Sul
+2024-03-19,Shorts Treino,Vestuario,119.90,45.00,Carlos Souza,Sudeste
+2024-03-22,Mochila Esportiva,Acessorios,189.90,80.00,Marcos Alves,Centro-Oeste
+2024-03-26,Meias Performance,Acessorios,39.90,12.00,Ana Lima,Sul
+2024-03-29,Tenis Running Pro,Calcados,299.90,120.00,Fernanda Costa,Norte

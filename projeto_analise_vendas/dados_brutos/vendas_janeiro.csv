@@ -1,0 +1,9 @@
+Data,Produto,Categoria,Valor_Venda,Custo_Produto,Vendedor,Regiao
+2024-01-05,Tenis Running Pro,Calcados,299.90,120.00,Ana Lima,Sul
+2024-01-08,Camiseta Dry Fit,Vestuario,89.90,30.00,Carlos Souza,Sudeste
+2024-01-12,Shorts Treino,Vestuario,119.90,45.00,Ana Lima,Sul
+2024-01-15,Mochila Esportiva,Acessorios,189.90,80.00,Fernanda Costa,Norte
+2024-01-20,Tenis Running Pro,Calcados,299.90,120.00,Carlos Souza,Sudeste
+2024-01-22,Meias Performance,Acessorios,39.90,12.00,Ana Lima,Sul
+2024-01-25,,Vestuario,99.90,,Fernanda Costa,Norte
+2024-01-28,Boné Koala,Acessorios,59.90,18.00,Carlos Souza,Sudeste
